@@ -1,0 +1,22 @@
+.inputs {
+  margin: 20px;
+}
+
+.container {
+  position: relative;
+}
+
+.container svg {
+  position: absolute;
+}
+
+.object {
+  position: absolute;
+  background: white;
+  top: 250px;
+  left: 250px;
+  padding: 10px;
+  font-size: 40px;
+  font-family: monospace;
+  transform: translateY(-50%) translateX(-50%);
+}
