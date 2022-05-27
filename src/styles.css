@@ -19,4 +19,5 @@
   font-size: 40px;
   font-family: monospace;
   transform: translateY(-50%) translateX(-50%);
+  width: fit-content;
 }
