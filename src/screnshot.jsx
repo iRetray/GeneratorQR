@@ -56,6 +56,10 @@ const Screenshot = () => {
           marginTop: "10px",
         }}
       >
+        <img
+          src="https://plataformabienestar-imagenes.desaws.compensar.co/personalization/defaultCustomizationImage/icons/avatar.svg"
+          alt="avatar"
+        />
         <QRGenerator URL={URL} hoverText={hoverText} />
       </div>
     </div>
